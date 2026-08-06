@@ -1,0 +1,56 @@
+{
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#1E1F22"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#2B2D31"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#313338"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#2B2D31"
+    ],
+    "CHAT_BACKGROUND": [
+      "#00000000"
+    ],
+    "HEADER_PRIMARY": [
+      "#FFFFFF"
+    ],
+    "HEADER_SECONDARY": [
+      "#B5BAC1"
+    ],
+    "TEXT_NORMAL": [
+      "#DBDEE1"
+    ],
+    "TEXT_MUTED": [
+      "#949BA4"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#B5BAC1"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FFFFFF"
+    ],
+    "BRAND_500": [
+      "#5865F2"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_800": "#2B2D31",
+    "PRIMARY_700": "#313338",
+    "PRIMARY_600": "#1E1F22"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/nguyenloc170557-eng/mytheme/main/e67ca99833263e2a780c4f4182f8b98f.jpg",
+    "alpha": 0.68,
+    "blur": 0.95
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "deco",
+    "mentionLineColor": "#5865F2"
+  },
+  "spec": 2
+}
